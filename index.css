@@ -44,4 +44,5 @@ body {
 .container .box:hover:before {
     opacity: 0.5; 
     filter: blur(30px);
+    z-index:-2
 }
